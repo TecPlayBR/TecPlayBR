@@ -4,9 +4,9 @@ Profile README for TecPlay_BR
 
 <img align="right" height="150" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding Gif"/>
 
-# 👋 Olá, eu sou o Bryan Paim Garcia
+# 👋 Olá, eu sou o Bryan mais conhecido como Tec
 
-### 💻 Game Developer | 🧠 Analista de Sistemas | 🚀 Fundador da TEC-Z
+### 💻 Game Developer | 🚀 Fundador da Brynel
 
 ---
 
