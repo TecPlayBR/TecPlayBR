@@ -2,7 +2,7 @@
 Profile README for TecPlay_BR
 -->
 
-<img align="right" height="150" src="https://giphy.com/gifs/TheDogePound-doge-meme-trying-my-best-W8tizn4VT7bAqSJxkY" alt="Coding Gif"/>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NzMmc1MTNwaHZzeG5nbjU3cGJmNDZrN201OXhqcG9jOGY3c2g3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif" alt="Coding Gif"/>
 
 # 👋 Olá, eu sou o Bryan mais conhecido como Tec
 
