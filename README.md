@@ -80,19 +80,26 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=800&color=00E4FF&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Analista+de+Sistemas+%7C+Empreendedor;Desenvolvendo+experi%C3%AAncias+no+universo+DayZ;Criando+modifica%C3%A7%C3%B5es+que+inspiram+comunidades" />
-</p>
+<!-- Título animado com fallback -->
+<div align="center">
 
----
+  <!-- Efeito digitando (com proteção de carregamento) -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3500&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Analista+de+Sistemas+%7C+Empreendedor;Desenvolvendo+experi%C3%AAncias+no+universo+DayZ;Criando+modifica%C3%A7%C3%B5es+que+inspiram+comunidades"
+    alt="Game Developer | Analista de Sistemas | Empreendedor"
+    onerror="this.style.display='none'; document.getElementById('fallback-text').style.display='block';"
+  />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=800&color=00E4FF&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Analista+de+Sistemas+%7C+Empreendedor;Desenvolvendo+experi%C3%AAncias+no+universo+DayZ;Criando+modifica%C3%A7%C3%B5es+que+inspiram+comunidades"
-  alt="Game Developer | Empreendedor" style="display:block;margin:auto;"/>
-</p>
+  <!-- Fallback caso o SVG não carregue -->
+  <p id="fallback-text" style="display:none; color:#00E4FF; font-family:'Orbitron', sans-serif; font-size:22px;">
+    Game Developer | Analista de Sistemas | Empreendedor
+  </p>
 
-<br/>
+  <!-- Frase final -->
+  <p style="margin-top:20px; font-style:italic; color:#ccc;">
+    "Transformando ideias em código, e código em experiências inesquecíveis."
+  </p>
 
-<p align="center">
-  <i>"Transformando ideias em código, e código em experiências inesquecíveis."</i>
-</p>
+  <!-- Pequeno espaçamento para evitar corte visual -->
+  <br/><br/>
+</div>
