@@ -26,10 +26,10 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🧠 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,vue,python,cpp,cs,php,postgres,mysql,bash,vscode,git,figma,powershell,azure,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vue,bootstrap,php,python,arduino,c,cs,cpp,java,postgres,mysql,powershell,bash," />
 </p>
 
 💬 Outras Skills:
@@ -37,6 +37,19 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 - PL/SQL, APIs REST, Gateways e automações empresariais  
 - Experiência em C, C++, EnScript (DayZ), e integração com PostgreSQL  
 - Sólidos conhecimentos em hardware e redes  
+
+---
+
+## ⚙️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,unity,unreal,vscode,git,firebase,windows,kali,figma,azure" />
+</p>
+
+💬 Outros Recursos:
+- Anydesk e Team Viewer 
+- DayZ Tools e Arma Tools, Enfusion e Forge
+- ClickUp, RunrunIT, To Do e Trello
 
 ---
 
@@ -57,7 +70,7 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 | **TEC HunterMods** | Sistema de caça e mineração customizado para servidores DayZ |
 | **TEC LB Master Mods** | Pacote de sistemas otimizados com integração LBMaster |
 | **TEC Builds** | Construções e objetos exclusivos para map editing |
-| **TEC ModPack** | Coleção de mods exclusivos da TEC-Z |
+| **TEC ModPack** | Coleção de mods exclusivos da Brynel |
 
 ---
 
