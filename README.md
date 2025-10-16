@@ -18,7 +18,7 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 ## 🚀 Sobre mim
 
 - 🇧🇷 Brasileiro, 22 anos — Caxias do Sul/RS  
-- 💼 Empresário, fundador da **TEC-Z**, especializada em desenvolvimento e hospedagem de servidores DayZ  
+- 💼 Empresário, fundador da **Brynel**, especializada em desenvolvimento e hospedagem de servidores DayZ  
 - 💡 Programador desde os 15 anos  
 - 📚 Formado como **Técnico em Informática**  
 - 📜 Certificações Microsoft: **MS-900** e **MIE (Microsoft Innovative Educator)**  
@@ -29,11 +29,7 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 ## 🧠 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,vue,python,cpp,cs,php,postgres,mysql,bash,git,powershell,windows,linux" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,azure,vscode,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,vue,python,cpp,cs,php,postgres,mysql,bash,vscode,git,figma,powershell,azure,windows,linux" />
 </p>
 
 💬 Outras Skills:
@@ -91,7 +87,12 @@ Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**,
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=800&color=00E4FF&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Analista+de+Sistemas+%7C+Empreendedor;Desenvolvendo+experi%C3%AAncias+no+universo+DayZ;Criando+modifica%C3%A7%C3%B5es+que+inspiram+comunidades"
+  alt="Game Developer | Empreendedor" style="display:block;margin:auto;"/>
+</p>
+
+<br/>
+
+<p align="center">
   <i>"Transformando ideias em código, e código em experiências inesquecíveis."</i>
 </p>
