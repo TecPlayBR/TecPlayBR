@@ -62,18 +62,6 @@ Atuo na criação de **servidores, mods e sistemas personalizados e tudo oque me
 
 ---
 
-## 🧩 Projetos em destaque
-
-| Projeto | Descrição |
-|----------|------------|
-| **TEC Weapons** | Mod de armas personalizadas estilo sci-fi/zumbi (FAL - Element 115) |
-| **TEC HunterMods** | Sistema de caça e mineração customizado para servidores DayZ |
-| **TEC LB Master Mods** | Pacote de sistemas otimizados com integração LBMaster |
-| **TEC Builds** | Construções e objetos exclusivos para map editing |
-| **TEC ModPack** | Coleção de mods exclusivos da Brynel |
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
