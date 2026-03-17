@@ -6,19 +6,19 @@ Profile README for TecPlay_BR
 
 # 👋 Olá, eu sou o Bryan mais conhecido como Tec
 
-### 💻 Game Developer | 🚀 Fundador da Brynel
+### 💻 Game Developer | 🚀 Fundador da Tecplay
 
 ---
 
 🎮 **Desenvolvedor de jogos e sistemas** apaixonado por tecnologia desde os 15 anos.  
-Atuo na criação de **servidores, mods e sistemas personalizados para o DayZ**, integrando **backend, frontend e infraestrutura** com eficiência e criatividade.  
+Atuo na criação de **servidores, mods e sistemas personalizados e tudo oque me deixa fascinado pela tecnologia**, integrando **backend, frontend e infraestrutura** com eficiência e criatividade.  
 
 ---
 
 ## 🚀 Sobre mim
 
 - 🇧🇷 Brasileiro, 22 anos — Caxias do Sul/RS  
-- 💼 Empresário, fundador da **Brynel**, especializada em desenvolvimento e hospedagem de servidores DayZ  
+- 💼 Empresário, fundador da **Tecplay**, especializada em desenvolvimento e hospedagem de servidores DayZ  
 - 💡 Programador desde os 15 anos  
 - 📚 Formado como **Técnico em Informática**  
 - 📜 Certificações Microsoft: **MS-900** e **MIE (Microsoft Innovative Educator)**  
