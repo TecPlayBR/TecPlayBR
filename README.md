@@ -21,7 +21,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 
 > 🎮 Desenvolvedor de jogos e sistemas, apaixonado por tecnologia desde os 15 anos. Atuo na criação de **servidores, mods e sistemas personalizados**, integrando **backend, frontend e infraestrutura** com eficiência e criatividade.
 
-- <img src="https://flagcdn.com/w20/br.png" height="13" alt="Brasil"/> Brasileiro, 23 anos — **Caxias do Sul / RS**
+- <img src="https://flagcdn.com/w20/br.png" height="13" alt="Brasil"/> Brasileiro, 22 anos — **Caxias do Sul / RS**
 - 💼 Fundador da **Tecplay** — desenvolvimento e hospedagem de servidores (DayZ e além)
 - 💡 Programando desde os **15 anos**, formado **Técnico em Informática**
 - 📜 Certificações Microsoft: **MS-900** e **MIE** (Microsoft Innovative Educator)
@@ -51,7 +51,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
   <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Enfusion-C%2B%2B-00E4FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="Enfusion Script"/>
+  <img src="https://img.shields.io/badge/Enfusion-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="Enfusion / EnScript"/>
   <img src="https://img.shields.io/badge/DayZ_Tools-Modding-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="DayZ Tools"/>
   <img src="https://img.shields.io/badge/Arma_Tools-Assets-00E4FF?style=for-the-badge&labelColor=0D1117" alt="Arma Tools"/>
   <img src="https://img.shields.io/badge/Forge-Workshop-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Forge"/>
@@ -62,21 +62,18 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
   <img src="https://skillicons.dev/icons?i=windows,kali,azure,git,vscode,figma" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white&labelColor=0D1117" alt="AnyDesk"/>
-  <img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white&labelColor=0D1117" alt="TeamViewer"/>
   <img src="https://img.shields.io/badge/DZSA_Launcher-Servers-00E4FF?style=for-the-badge&labelColor=0D1117" alt="DZSA Launcher"/>
 </p>
 
 **Microsoft / Low-code & Outros**
 <p>
-  <img src="https://img.shields.io/badge/Power_Automate-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/Power_Apps-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Power Apps"/>
-  <img src="https://img.shields.io/badge/SharePoint-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Apps_Script-00E4FF?style=for-the-badge&logo=googleappsscript&logoColor=white&labelColor=0D1117" alt="Apps Script"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-00E4FF?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/REST_APIs-00E4FF?style=for-the-badge&labelColor=0D1117" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=0D1117" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=0D1117" alt="Power Apps"/>
+  <img src="https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=0D1117" alt="SharePoint"/>
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white&labelColor=0D1117" alt="Apps Script"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" alt="Trello"/>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white&labelColor=0D1117" alt="ClickUp"/>
 </p>
 
 ---
