@@ -5,7 +5,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 
 <!-- ===== HERO / BANNER ===== -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E4FF,100:7B2FFF&height=200&section=header&text=Bryan%20%22Tec%22%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Fundador%20da%20Tecplay&descSize=18&descAlignY=58" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E4FF,100:7B2FFF&height=200&section=header&text=Bryan%20Paim%20Garcia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20Fundador%20da%20Tecplay&descSize=16&descAlignY=58" alt="header"/>
 </a>
 
 <!-- ===== TYPING EFFECT ===== -->
@@ -43,7 +43,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 
 **Frontend & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,bootstrap,postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,laravel,bootstrap,postgres,mysql,firebase" />
 </p>
 
 **Game Dev**
@@ -51,7 +51,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
   <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Enfusion-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="Enfusion / EnScript"/>
+  <img src="assets/enfusion.png" height="40" alt="Enfusion"/>
   <img src="https://img.shields.io/badge/DayZ_Tools-Modding-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="DayZ Tools"/>
   <img src="https://img.shields.io/badge/Arma_Tools-Assets-00E4FF?style=for-the-badge&labelColor=0D1117" alt="Arma Tools"/>
   <img src="https://img.shields.io/badge/Forge-Workshop-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Forge"/>
@@ -66,13 +66,16 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 </p>
 
 **Microsoft / Low-code & Outros**
+<!-- Logos locais: ícones do Power Platform/SharePoint/Oracle foram removidos do simple-icons, então o shields.io não os renderiza. -->
 <p>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=0D1117" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=0D1117" alt="Power Apps"/>
-  <img src="https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=0D1117" alt="SharePoint"/>
-  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white&labelColor=0D1117" alt="Apps Script"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" alt="REST APIs"/>
+  <img src="assets/power-automate.png" height="40" alt="Power Automate"/>
+  <img src="assets/power-apps.png" height="40" alt="Power Apps"/>
+  <img src="assets/sharepoint.png" height="40" alt="SharePoint"/>
+  <img src="assets/plsql.png" height="40" alt="PL/SQL (Oracle)"/>
+  <img src="assets/rest.png" height="40" alt="REST APIs"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apps_Script-00E4FF?style=for-the-badge&logo=googleappsscript&logoColor=white&labelColor=0D1117" alt="Apps Script"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" alt="Trello"/>
 </p>
 
