@@ -19,18 +19,18 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 
 ## 🚀 Sobre mim
 
-<img align="right" height="155" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NzMmc1MTNwaHZzeG5nbjU3cGJmNDZrN201OXhqcG9jOGY3c2g3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif" alt="Coding Gif"/>
-
 > 🎮 Desenvolvedor de jogos e sistemas, apaixonado por tecnologia desde os 15 anos. Atuo na criação de **servidores, mods e sistemas personalizados**, integrando **backend, frontend e infraestrutura** com eficiência e criatividade.
 
-- 🇧🇷 Brasileiro, 22 anos — **Caxias do Sul / RS**
+- <img src="https://flagcdn.com/w20/br.png" height="13" alt="Brasil"/> Brasileiro, 23 anos — **Caxias do Sul / RS**
 - 💼 Fundador da **Tecplay** — desenvolvimento e hospedagem de servidores (DayZ e além)
 - 💡 Programando desde os **15 anos**, formado **Técnico em Informática**
 - 📜 Certificações Microsoft: **MS-900** e **MIE** (Microsoft Innovative Educator)
 - 🧩 Atuo em três frentes ao mesmo tempo: **Dev • Infra • Negócio**
 - ⚽ Preparador de goleiros nas horas vagas (equilíbrio é tudo 😄)
 
-<br clear="right"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7B2FFF&center=true&vCenter=true&width=520&lines=Compilando+mods...+%F0%9F%94%A7;Servidores+online+%E2%9C%85;Debugando+%C3%A0s+3+da+manh%C3%A3+%F0%9F%8C%99;Dev+de+dia%2C+goleiro+nas+horas+vagas+%F0%9F%A7%A4;Caf%C3%A9+%3E+Bugs+%E2%98%95" alt="status divertido"/>
+</div>
 
 ---
 
