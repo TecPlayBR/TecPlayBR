@@ -101,8 +101,9 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecPlayBR&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E4FF&text_color=C9D1D9" alt="Top Langs"/>
 </div>
 
+<!-- Troféus: self-hospedado no Vercel (github-profile-trophy do gabriel-logan), para não depender do serviço público que vivia caindo. -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TecPlayBR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://bryan-sooty.vercel.app/?username=TecPlayBR&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
 
 <!-- ===== SNAKE (precisa da Action — ver instruções) ===== -->
