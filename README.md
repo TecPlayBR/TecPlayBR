@@ -49,17 +49,34 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 **Game Dev**
 <p>
   <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-  <code>Enfusion Script (C++)</code> · <code>DayZ Tools</code> · <code>Arma Tools</code> · <code>Forge</code>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Enfusion-C%2B%2B-00E4FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117" alt="Enfusion Script"/>
+  <img src="https://img.shields.io/badge/DayZ_Tools-Modding-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="DayZ Tools"/>
+  <img src="https://img.shields.io/badge/Arma_Tools-Assets-00E4FF?style=for-the-badge&labelColor=0D1117" alt="Arma Tools"/>
+  <img src="https://img.shields.io/badge/Forge-Workshop-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Forge"/>
 </p>
 
 **Infra, Cloud & Ferramentas**
 <p>
   <img src="https://skillicons.dev/icons?i=windows,kali,azure,git,vscode,figma" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white&labelColor=0D1117" alt="AnyDesk"/>
+  <img src="https://img.shields.io/badge/TeamViewer-004680?style=for-the-badge&logo=teamviewer&logoColor=white&labelColor=0D1117" alt="TeamViewer"/>
+  <img src="https://img.shields.io/badge/DZSA_Launcher-Servers-00E4FF?style=for-the-badge&labelColor=0D1117" alt="DZSA Launcher"/>
+</p>
 
 **Microsoft / Low-code & Outros**
 <p>
-  Power Automate · Power Apps · SharePoint · App Script · PL/SQL · APIs REST · Gateways · ClickUp · Trello
+  <img src="https://img.shields.io/badge/Power_Automate-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Power Automate"/>
+  <img src="https://img.shields.io/badge/Power_Apps-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Power Apps"/>
+  <img src="https://img.shields.io/badge/SharePoint-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="SharePoint"/>
+  <img src="https://img.shields.io/badge/Apps_Script-00E4FF?style=for-the-badge&logo=googleappsscript&logoColor=white&labelColor=0D1117" alt="Apps Script"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-00E4FF?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="PL/SQL"/>
+  <img src="https://img.shields.io/badge/REST_APIs-00E4FF?style=for-the-badge&labelColor=0D1117" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117" alt="Trello"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white&labelColor=0D1117" alt="ClickUp"/>
 </p>
 
 ---
@@ -76,8 +93,8 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 ## 📈 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TecPlayBR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E4FF&icon_color=00E4FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TecPlayBR&hide_border=true&background=0D1117&stroke=00E4FF&ring=00E4FF&fire=7B2FFF&currStreakLabel=00E4FF" alt="Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TecPlayBR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E4FF&icon_color=00E4FF&text_color=C9D1D9&ring_color=00E4FF" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TecPlayBR&hide_border=true&background=0D1117&stroke=00E4FF&ring=00E4FF&fire=7B2FFF&currStreakNum=FFFFFF&currStreakLabel=00E4FF&sideNums=FFFFFF&sideLabels=00E4FF&dates=C9D1D9" alt="Streak"/>
 </div>
 
 <div align="center">
