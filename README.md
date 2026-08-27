@@ -21,7 +21,7 @@ Paleta: ciano #00E4FF / roxo #7B2FFF sobre dark #0D1117
 
 > 🎮 Desenvolvedor de jogos e sistemas, apaixonado por tecnologia desde os 15 anos. Atuo na criação de **servidores, mods e sistemas personalizados**, integrando **backend, frontend e infraestrutura** com eficiência e criatividade.
 
-- <img src="https://flagcdn.com/w20/br.png" height="13" alt="Brasil"/> Brasileiro, 22 anos — **Caxias do Sul / RS**
+- <img src="https://flagcdn.com/w20/br.png" height="13" alt="Brasil"/> Brasileiro, 23 anos — **Caxias do Sul / RS**
 - 💼 Fundador da **Tecplay** — desenvolvimento e hospedagem de servidores (DayZ e além)
 - 💡 Programando desde os **15 anos**, formado **Técnico em Informática**
 - 📜 Certificações Microsoft: **MS-900** e **MIE** (Microsoft Innovative Educator)
